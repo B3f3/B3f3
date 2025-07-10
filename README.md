@@ -5,7 +5,8 @@ The languages I mainly use:
 - Python
 - React
 - TypeScript
-Labhues I can do:
+- 
+Langues I can do:
 - C
 - C#
 - Java
