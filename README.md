@@ -5,7 +5,7 @@ The languages I mainly use:
 - Python
 - React
 - TypeScript
-- 
+  
 Langues I can do:
 - C
 - C#
